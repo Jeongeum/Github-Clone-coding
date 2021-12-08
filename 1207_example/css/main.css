@@ -61,5 +61,5 @@
   .input--text::-ms-input-placeholder {color: red;}
   .input--text::-moz-input-placeholder {color: red;}
   */
-  .input--text::-webkit-input-placeholder {color: #cacaca;}
   
+  .input--text::-webkit-input-placeholder {color: #cacaca;}
